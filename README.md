@@ -9,7 +9,7 @@ The purpose of this project is to analyze a dataset from a local school district
 - Replacing the Thomas High School 9th grade scores didn't change math and reading scores for any other grade or school. Altering the data for Thomas High School also didn't change the results for math and reading scores by school spending, school size or school type. 
 
 School summary before Thomas High School data was omitted:
-![original summary](https://github.com/mayamtimsSchool-District-Analysis/blob/main/Resources/original_per_school_summary.png)
+![original summary](https://github.com/mayamtims/School-District-Analysis/blob/main/Resources/original_per_school_summary.png)
 
 School summary after Thomas High School data was omitted:
 ![ommitted summary](https://github.com/mayamtims/School-District-Analysis/blob/main/Resources/post_per_school_summary.png)
