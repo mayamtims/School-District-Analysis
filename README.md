@@ -1,7 +1,7 @@
 # School-District-Analysis
 
-## Prjoect Overview
-The purpose of this project is to analyze a dataset from a local school district after it was discovered that Thomas High School's 9th grade test scores had been altered. The dataset contains information about each school's name, type, size and budget, and each student's name, school, gender, math score and reading score. The statistics we want to obtain from the newly modified dataset include total budget per school, per student capita, average math score per school, average reading score per school, the percentge of students who passed math and reading per school, and the overall passing percentge per school. We also want to determine how school type (charter vs district), school size and per student spending effects math and reading test scores. 
+## Project Overview
+The purpose of this project is to analyze a dataset from a local school district after it was discovered that Thomas High School's 9th grade test scores had been altered. The dataset contains information about each school's name, type, size and budget, and each student's name, school, gender, math score and reading score. The statistics we wanted to obtain from the newly modified dataset included total budget per school, per student capita, average math score per school, average reading score per school, the percentge of students who passed math and reading per school, and the overall passing percentge per school. We also wanted to determine how school type (charter vs district), school size and per student spending effected math and reading test scores. 
 
 ## Results
 - For the district summary, removing the math and reading test scores for 9th graders from Thomas High School slightly increased the percent of overall students passing reading and math. Aside from that, the district summary changed very little. 
